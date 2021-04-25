@@ -1,4 +1,5 @@
-# supermariobydomu
+# Super Mario JS version (inspired by Iron Man v/s Thanos)
+# Version 2.0
 
 https://idomendrasahu.github.io/supermariobydomu/
 
